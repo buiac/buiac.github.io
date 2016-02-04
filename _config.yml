@@ -1,0 +1,10 @@
+safe: true
+lsi: false
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+permalink: /:title/
+url: https://www.buiac.com
+exclude:
+  - README.md
