@@ -46,5 +46,5 @@ Started by the founders of hi5.com, Adlogica uses predictive data to help market
   </a>
 </h4>
 
-Gorgias increases message response time by introducing automated templates and keyboard shortcuts on Gmail™, Outlook™ and others. We worked with them on the Chrome extension, helping with the UI design and the large JavaScript codebase and architecture.
+Gorgias improves message response time by introducing automated templates and keyboard shortcuts on Gmail™, Outlook™ and others. We worked with them on the Chrome extension, helping with the UI design and the large JavaScript codebase and architecture.
 
