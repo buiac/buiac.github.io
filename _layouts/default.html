@@ -4,45 +4,31 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <title>
-    Buiac
+    Web Development and Consulting with Modern Web Technologies - Buiac
   </title>
-  <meta name="description" content="">
+  <meta name="description" content="BUIAC is a small team of developers focusing on web app development and consulting. Working on open source projects, developer tools or software for startups and large companies.">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
 
-  <link href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
+  <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet" type="text/css">
 
   <link rel="stylesheet" href="/bower_components/normalize-css/normalize.css">
   <link rel="stylesheet" href="/styles/website.css">
 </head>
 <body>
 
-  <header>
-    <a href="/" class="logo">
-      <img src="images/logo.svg" alt="Buiac">
-    </a>
+  {{ content }}
 
-    <h1>
-      Buiac is a small web development team in <br>
-      Cluj-Napoca, Romania.
-    </h1>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    <p>
-      <a href="/about/">about us</a>
-    </p>
+  ga('create', 'UA-73393445-1', 'auto');
+  ga('send', 'pageview');
+  </script>
 
-    <p>
-      <a href="/products/">projects</a>
-    </p>
-
-    <p>
-      <a href="mailto:contact@buiac.com">contact@buiac.com</a>
-    </p>
-  </header>
-
-  <div class="content">
-    {{ content }}
-  </div>
 </body>
 </html>

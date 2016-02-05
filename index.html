@@ -1,0 +1,69 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="logo">
+    <a href="/">
+      <img src="/images/logo.svg" alt="BUIAC">
+    </a>
+  </h1>
+
+  <p class="tagline-header">
+    We’re is a small team of developers focusing on web app development and consulting.
+  </p>
+</header>
+
+<nav class="nav-main">
+  <ul>
+    <li>
+      <a href="#projects">
+        Projects
+      </a>
+    </li>
+    <li>
+      <a href="mailto:contact@buiac.com">
+        contact@buiac.com
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<section class="section-about" id="about">
+  {% capture about %}{% include about.md %}{% endcapture %}
+  {{ about  | markdownify }}
+</section>
+
+<section class="section-projects" id="projects">
+  {% capture projects %}{% include projects.md %}{% endcapture %}
+  {{ projects  | markdownify }}
+</section>
+
+
+<footer class="footer-main">
+  <div class="footer-address vcard">
+    <a class="fn org">
+      BUIAC
+    </a>
+    <div class="adr">
+      <div class="street-address">
+        Victor Babes 4
+      </div>
+      <span class="locality">Cluj-Napoca</span>,
+      <span class="country">Romania</span>
+    </div>
+  </div>
+
+  <ul class="footer-contact">
+    <li>
+      <a href="mailto:contact@buiac.com">
+        contact@buiac.com
+      </a>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/wearebuiac/">
+        facebook.com/wearebuiac
+      </a>
+    </li>
+  </ul>
+</footer>
