@@ -8,7 +8,7 @@
   </a>
 </h4>
 
-Each of us has been in the awkward position of missing an appointment – even the Germans miss them from time to time. Apunto addresses companies whose business models rely on a timed, daily, schedule. Missed appointments cost the National Health Service in UK 160 million pounds every year. Apunto is looking for a safety measure, a way for businesses to secure their meetings with clients.
+Each of us has been in the awkward position of missing an appointment – even the Germans miss them from time to time. Apunto addresses companies whose business models rely on a timed, daily, schedule. It's providing a safety measure, a way for businesses to secure their meetings with clients.
 
 
 <h4>
