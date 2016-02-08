@@ -13,8 +13,11 @@
    height="280"
    id="svg3811"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 3">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="/home/mokush/dev/buiac.github.io/_artwork/icon.png"
+   inkscape:export-xdpi="425.89285"
+   inkscape:export-ydpi="425.89285">
   <defs
      id="defs3813" />
   <sodipodi:namedview
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="137.58139"
-     inkscape:cy="118.77134"
+     inkscape:zoom="0.7"
+     inkscape:cx="44.239746"
+     inkscape:cy="137.3712"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,9 +37,9 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1873"
-     inkscape:window-height="1080"
-     inkscape:window-x="47"
+     inkscape:window-width="1876"
+     inkscape:window-height="1051"
+     inkscape:window-x="44"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -47,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,16 +60,7 @@
      id="layer1"
      transform="translate(-40,-383.79074)">
     <rect
-       style="opacity:0.42127661999999999;fill:#cccccc;fill-opacity:0.41960784000000001;stroke:none"
-       id="rect3828"
-       width="280"
-       height="280"
-       x="40"
-       y="383.79074"
-       rx="2"
-       ry="2" />
-    <rect
-       style="font-size:246.04397583px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.42127662;fill:#f60000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:246.04397583px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#c83771;fill-opacity:1;stroke:none;font-family:Sans"
        id="rect3011"
        width="41.966682"
        height="41.966682"
@@ -80,7 +74,7 @@
        height="41.966682"
        width="125.90004"
        id="rect3013"
-       style="font-size:246.04397583px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:0.42127662;fill:#f60000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:246.04397583px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#c83771;fill-opacity:1;stroke:none;font-family:Sans"
        rx="5.5955577"
        ry="5.5955577" />
   </g>

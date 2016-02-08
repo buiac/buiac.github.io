@@ -1,5 +1,9 @@
-/* Buiac
+---
+---
+/* BUIAC
  */
+
+@import '../bower_components/normalize-css/normalize.css';
 
 *,
 *:before,
@@ -11,7 +15,7 @@
 
 html {
   height: 100%;
-  max-width: 40em;
+  max-width: 48em;
 }
 
 body {
@@ -72,10 +76,10 @@ a:hover {
 .logo {
   display: block;
   width: 48%;
+  min-width: 5.2em;
+  margin-left: -8%;
   position: relative;
   overflow: hidden;
-  display: block;
-  margin-left: -8%;
   background: url(../images/logo.svg) no-repeat left top;
   background-size: contain;
 
@@ -116,6 +120,37 @@ a:hover {
 
 .section-projects {
   margin-bottom: 8em;
+}
+
+.project-item {
+  overflow: hidden;
+  padding-bottom: 2em;
+}
+
+.project-image:hover {
+  border: 0;
+}
+
+@media (min-width: 40em) {
+  .project-item {
+    padding-bottom: 0;
+  }
+
+  .project-image {
+    float: left;
+    width: 40%;
+    padding-right: 1em;
+    margin-bottom: 4em;
+  }
+
+  .project-image ~ p {
+    float: left;
+    width: 60%;
+  }
+}
+
+.project-item h4 {
+  margin-top: 0;
 }
 
 /* footer
